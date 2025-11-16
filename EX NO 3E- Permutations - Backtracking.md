@@ -15,8 +15,8 @@ For example:
 4. After exploring a choice, unmark the number and remove it to backtrack.
 5. Repeat the process for all indices to generate every possible permutation.
 
-Developed by: Priyadharshan S
-Register Number: 212223240127
+### Developed by: Priyadharshan S 
+### Register Number: 212223240127
 
 ## Program:
 ```java
