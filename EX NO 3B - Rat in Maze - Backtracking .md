@@ -29,7 +29,7 @@ left → down → left → down → right → down → right.
 5. If the destination is reached, return true; if all possibilities are exhausted, return false.
 
 Developed by: Priyadharshan S  
-Register Number: 21BCE0000  
+Register Number: 212223240127
 
 ## Program:
 ```java
