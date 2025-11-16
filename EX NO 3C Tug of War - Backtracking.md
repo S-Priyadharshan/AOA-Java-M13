@@ -24,8 +24,8 @@ Constraints:
 5. Return true if the accumulated sum equals the target; otherwise return false.
 
 
-Developed by: Priyadharshan S
-Register Number: 212223240127
+### Developed by: Priyadharshan S 
+### Register Number: 212223240127
 
 ## Program:
 ```java
